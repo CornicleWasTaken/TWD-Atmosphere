@@ -1,0 +1,39 @@
+{
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/twd/melancholy",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.game.creative": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.nether": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.end": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.dragon": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.credits": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.cave": {
+    "replace": true,
+    "sounds": []
+  }
+}
